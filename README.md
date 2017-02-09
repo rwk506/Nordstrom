@@ -7,9 +7,9 @@
 </br></br>
 **Summary**
 
-Recent events have led to Nordstrom dropping a line of their clothing from their typical lineup - that of Ivanka Trump (http://n.pr/2ktyVqt). As would be expected, this has led to all sorts of reactions from a variety of sources.
+Recent events have led to Nordstrom dropping a line of their clothing from their typical lineup (http://n.pr/2ktyVqt). This led to all sorts of reactions from a variety of sources.
 
-My goal is to examine the reaction on Twitter to these two events: the initial coverage on February 3rd and the followup response on February 8th. I use the Twitter API to gather tweets with the #Nordstrom tag and analyze their sentiment and popularity, with differentiations based on whether the president or his daughter are mentioned.
+My goal is to examine the reaction on Twitter to these two events: the initial coverage on February 3rd and the followup response on February 8th. I use the Twitter API to gather tweets with the #Nordstrom tag and analyze the occurence, sentiment, and popularity of the tweets.
 
 
 </br>

@@ -9,7 +9,7 @@
 
 Recent events have led to Nordstrom dropping a line of their clothing from their typical lineup (http://n.pr/2ktyVqt). This led to all sorts of reactions from a variety of sources.
 
-My goal is to examine the reaction on Twitter to these two events: the initial coverage on February 3rd and the followup response on February 8th. I use the Twitter API to gather tweets with the #Nordstrom tag and analyze the occurence, sentiment, and popularity of the tweets.
+The goal of this project is to examine the reaction on Twitter to these two events: the initial coverage on February 3rd and the followup response on February 8th. I use the Twitter API to gather tweets with the #Nordstrom tag and analyze the occurence, sentiment, and popularity of the tweets. I also bring in stock price data for comparison. To ruin the ending - Nordstrom seems safe.
 
 
 </br>

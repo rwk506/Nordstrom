@@ -13,13 +13,13 @@ The goal of this project is to examine the reaction on Twitter to these two even
 
 
 </br>
-**Dependencies**
+<h4>Dependencies</h4>
 
 This Python code was written using Python 2.7, but should be compatible with many other versions. The tweepy package and the Twitter API must be installed and set up. The user may also have to install the matplotlib and pylab packages.
 
 
 </br>
-**Other Information**
+<h4>Other Information</h4>
 
 Author: RWK </br>
 License: None, free to use and edit as people wish. </br>
